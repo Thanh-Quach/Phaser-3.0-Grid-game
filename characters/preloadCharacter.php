@@ -1,0 +1,13 @@
+this.load.image('warrior', 'assets/warrior/warrior-1.png');
+this.load.image('warriorSlash1', 'assets/warrior/warrior-2.png');
+this.load.image('warriorSlash2', 'assets/warrior/warrior-3.png');
+this.load.image('warriorSlash3', 'assets/warrior/warrior-4.png');
+this.load.image('warriorSlash4', 'assets/warrior/warrior-5.png');
+this.load.image('warriorSlash5', 'assets/warrior/warrior-6.png');
+this.load.image('warriorSlash6', 'assets/warrior/warrior-7.png');
+this.load.image('npc', 'assets/npc/npc.png');
+this.load.image('bullet', 'assets/effects/bullet.png');
+this.load.image('claw', 'assets/effects/slash.png');
+this.load.image('meteror', 'assets/meteror.png');
+this.load.image('flamethrower', 'assets/foeAtk/flamethrower.png');
+this.load.image('heavyAtk', 'assets/skills/heavyAtk.png');
