@@ -1,6 +1,8 @@
 # Phaser-3.0-Grid-game
 
 Requirement:
-  PHP environemnt
-  Node
-  Npm
+<ul>
+  <li>PHP environemnt</li>
+  <li>Node</li>
+  <li>Npm</li>
+</ul
